@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T08:34:30.297Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="hdLc2TH-mbTRS-C6WJg8" version="20.2.4" type="github"><diagram name="Page-1" id="197159a0-c6a4-9194-75a8-e4174976684c">3VhNc5swEP01OraDEWBxBEOa6aSXZtq0R9koQCMjjyx/9dd3hYUBgzMkkwxOL/bqsdJKT28XCYRny/0XSVfZN5Ewjmwr2SMcIdu2LezBn0YOR2QywZMjkso8OWJWDdznf5lxrNBNnrC1wY6QEoKrfLVu9V6IomAL1XKkUopdu++j4EkLWNGUdYD7BeUV+tmt8Yc8UVm1EM+vH9yyPM1McGKbNc/p4imVYlOYiIUo2PHJklbDmNmvM5qIXQPCMcIzKYQ6Wsv9jHHN7Blna3WoJopwmKklh8YEzPLxzYXOkyGdYV2SFaoZ7tJ48d3P26+3013wg+f+NioSPKefbHwcZkv5popyHpYlwLVpCqkykYqC8rhGw5I+puNY0Kp97oRYmdn+YUodjHDoRom+tehAZ7tcL66iQ2zkgj23IkO6ojJl6jlH+7SFkBhMLJmSB+goGacq37ZnQo1A05NfzTQYhuyXEG91iY8JCl1EHBQ7KAxQMEWxi8IZ8l1tEBcFbndzOIck05uwy3LF7le0ZGcHid5H8ZZJxfbPk9ylxHRwq3Q3ZeKU/rtGxjkGyxrJ5lnvxWIPIR9LrfZQtTqjqtXuUaunhRla2iARCmIt0uAGhT6KfRRGyO+WvzHViu3R1Tr974qtM1S+3qjydXrlG1iIlDUWfolXGlBsvatSreOMrlp/DJECXfLwS/eHo51p/jbDlY1o32odTOstxe0NFTcZU9y4e1D8YEVkKM/YGpPnappnRYSEVe0g2rim2uG6Y9cO3FN4P7hYyVCx4lHFSjrE331HtsdhyuFcgpVqa/KgLx1wdAsiFE9RCFrGPQe7MUWN/baoPX90UXevbr3cWtdProevjtz+mwYc1fS9onHTgHLrR+WVY6pr8OnwpgmOSqb98lxX+hBL36M7WzToxh3faAQGH3LhaTpfOl42fc7eHi9bF8wZ5h9MugvTerT6k9tHfvjqUPalUP1af+tY2glwvV9euXHhq4c+SzpIIdXOrrWS4onNBBcSkPKrIA4fc87PIMrztIAmZ496BJ2O+YLywMDLPEn4pWRuv9jeIJ/JdNrOZ8vt5DP2STef8bvlc88Hxu4uXtMLhlj2u9VAaNafi8tnjS/yOP4H</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-19T08:46:02.933Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="gYnAZV4lAChqiJhsOv_f" version="20.2.4" type="github">
+  <diagram name="Page-1" id="197159a0-c6a4-9194-75a8-e4174976684c">
+    <mxGraphModel dx="2036" dy="1131" grid="0" gridSize="10" guides="1" tooltips="0" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="ELVHJH7wAUli9vDnd3ba-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ELVHJH7wAUli9vDnd3ba-20" target="ELVHJH7wAUli9vDnd3ba-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ELVHJH7wAUli9vDnd3ba-20" value="资产引入" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="210" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ELVHJH7wAUli9vDnd3ba-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ELVHJH7wAUli9vDnd3ba-22" target="ELVHJH7wAUli9vDnd3ba-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ELVHJH7wAUli9vDnd3ba-22" value="数据对齐" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="320" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ELVHJH7wAUli9vDnd3ba-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ELVHJH7wAUli9vDnd3ba-24" target="ELVHJH7wAUli9vDnd3ba-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ELVHJH7wAUli9vDnd3ba-24" value="标准化" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="440" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ELVHJH7wAUli9vDnd3ba-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ELVHJH7wAUli9vDnd3ba-26" target="ELVHJH7wAUli9vDnd3ba-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ELVHJH7wAUli9vDnd3ba-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ELVHJH7wAUli9vDnd3ba-26" target="ELVHJH7wAUli9vDnd3ba-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ELVHJH7wAUli9vDnd3ba-26" value="拆分" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="550" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ELVHJH7wAUli9vDnd3ba-28" value="LR&lt;br&gt;1W训练数据" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="690" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ELVHJH7wAUli9vDnd3ba-30" value="LR&lt;br&gt;10W训练数据" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="630" y="690" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ELVHJH7wAUli9vDnd3ba-32" value="根据初始化权重值&lt;br&gt;资产引入，数据对齐，标准化，拆分初始化权重为1&lt;br&gt;LR 1W训练集初始化权重为2&lt;br&gt;LR 10W训练集初始化权重为2" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="871" y="605" width="398" height="87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
